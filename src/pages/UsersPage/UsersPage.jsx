@@ -21,6 +21,7 @@ export const UsersPage = () => {
           </li>
         ))}
       </ul>
+      <Link to="add">Add user</Link>
     </>
   );
 };
